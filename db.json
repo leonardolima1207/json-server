@@ -1,0 +1,25 @@
+{
+  "serie": [
+    {
+      "id": "1",
+      "nomeSerie": "Flash",
+      "Numtemporadas": "seis",
+      "Anolancamento": 2014,
+      "estudio": "Warner Bros"
+    },
+    {
+      "id": "2",
+      "nomeSerie": "How I Met Your Mother",
+      "Numtemporadas": "nove",
+      "Anolancamento": 2005,
+      "estudio": "Fox"
+    },
+    {
+      "id": "3",
+      "nomeSerie": "Injustice",
+      "Numtemporadas": "5",
+      "Anolancamento": 2013,
+      "estudio": "Panini"
+    }
+  ]
+}
